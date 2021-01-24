@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background: #FF512F;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #DD2476, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #DD2476, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: 'Timmana', sans-serif;
+  text-shadow: -3px 0 12px #0E98B3;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.j {
+  background-image: url("images/snare.png");
+}
+
+.k {
+  background-image: url("images/crash.png");
+}
+
+.l {
+  background-image: url("images/kick.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #52FFAB;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 0px;
+  font-size: 5rem;
+  font-family: 'Timmana', cursive;
+  line-height: 2;
+  box-shadow: -3px 3px 4px  #530142;
+  font-weight: 900;
+  color: #ffffff;
+  text-shadow: 0px 0px 12px  #52FFAB;
+  border-radius: 50px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
