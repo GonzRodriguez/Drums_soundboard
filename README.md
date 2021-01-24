@@ -1,3 +1,3 @@
 # Drums_soundboard
 
-![final-project-image](https://github.com/GonzRodriguez/Drums_soundboard/blob/master/drum-kit.png?raw=true)
+![drum-kit](https://user-images.githubusercontent.com/47540285/105638588-4958cc80-5e6b-11eb-815d-12cb08273576.png)
